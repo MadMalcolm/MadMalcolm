@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @MadMalcolm
+- 👀 I’m interested in ...
+Programming, IT information in general, Football, the occasional video game.
+- 🌱 I’m currently learning ...
+I am currently attending college to receive an associate degree studying Programming, Operating systems, and Networking.
+- 💞️ I’m looking to collaborate on ...
+Projects that I will be working on for school as well as anything I play around with in free time.
+- 📫 How to reach me ...
+mhummel16@southills.edu
+<!---
+MadMalcolm/MadMalcolm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
